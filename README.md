@@ -1,2 +1,2 @@
 # RiseConfigs
-Configs for rise client
+Configs for rise client and scripts
